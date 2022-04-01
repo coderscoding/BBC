@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbe6543d.css",
-    "main.js": "/static/js/main.d166c63b.js",
-    "static/js/787.6007394a.chunk.js": "/static/js/787.6007394a.chunk.js",
-    "static/media/3.jpg": "/static/media/3.f5ed3732073a59921de0.jpg",
-    "static/media/2.jpg": "/static/media/2.b336031de8e710ee963a.jpg",
-    "static/media/1.jpg": "/static/media/1.fa03933810b038cb26af.jpg",
-    "static/media/bg2.jpg": "/static/media/bg2.366a532d546305e4f710.jpg",
-    "static/media/doing.png": "/static/media/doing.300846963f0506cffb0e.png",
-    "static/media/top2.png": "/static/media/top2.36dfa8ae2d27e0b25505.png",
-    "static/media/top1.png": "/static/media/top1.a018fd57acde28ee469b.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.bbe6543d.css.map": "/static/css/main.bbe6543d.css.map",
-    "main.d166c63b.js.map": "/static/js/main.d166c63b.js.map",
-    "787.6007394a.chunk.js.map": "/static/js/787.6007394a.chunk.js.map"
+    "main.css": "/BBC/static/css/main.125584f9.css",
+    "main.js": "/BBC/static/js/main.ccdeec43.js",
+    "static/js/787.6007394a.chunk.js": "/BBC/static/js/787.6007394a.chunk.js",
+    "static/media/3.jpg": "/BBC/static/media/3.f5ed3732073a59921de0.jpg",
+    "static/media/2.jpg": "/BBC/static/media/2.b336031de8e710ee963a.jpg",
+    "static/media/1.jpg": "/BBC/static/media/1.fa03933810b038cb26af.jpg",
+    "static/media/bg2.jpg": "/BBC/static/media/bg2.366a532d546305e4f710.jpg",
+    "static/media/doing.png": "/BBC/static/media/doing.300846963f0506cffb0e.png",
+    "static/media/top2.png": "/BBC/static/media/top2.36dfa8ae2d27e0b25505.png",
+    "static/media/top1.png": "/BBC/static/media/top1.a018fd57acde28ee469b.png",
+    "static/media/logo.svg": "/BBC/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BBC/index.html",
+    "main.125584f9.css.map": "/BBC/static/css/main.125584f9.css.map",
+    "main.ccdeec43.js.map": "/BBC/static/js/main.ccdeec43.js.map",
+    "787.6007394a.chunk.js.map": "/BBC/static/js/787.6007394a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbe6543d.css",
-    "static/js/main.d166c63b.js"
+    "static/css/main.125584f9.css",
+    "static/js/main.ccdeec43.js"
   ]
 }
